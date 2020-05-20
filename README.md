@@ -8,5 +8,6 @@ Simple python code project based on loops and functions
   Librarian can change id - password of librarin,
   Librarian can see book details,add and delete books, can add and remove student,
   Librarian can see the issued books by which student
+ ### just run that file in jupyter notebook or in command promte
 ## Thankyou for visiting  
   
